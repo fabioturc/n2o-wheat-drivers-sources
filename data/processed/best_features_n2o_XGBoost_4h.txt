@@ -1,0 +1,16 @@
+n_decay_timed
+timesince_soil_preparation
+timesince_fert
+flux_gpp_roll48hsum
+prec_roll24hsum
+prec_roll48hsum
+ts_0.15_roll48hmean
+ts_0.3_roll48hmean
+wfps_0.15_roll12hmean
+wfps_0.3_roll12hmean
+wfps_0.3_roll24hmean
+wfps_0.3_roll48hmean
+ts_0.3_diff48h
+wfps_0.05_diff24h
+wfps_0.05_diff48h
+wfps_0.3_diff48h
