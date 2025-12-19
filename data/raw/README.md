@@ -30,7 +30,7 @@ After unzipping, you should see the following files:
 | `LAI_model.csv`             | LAI time series interpolated with cubic splines (used only for visualization in Fig. 2 of the manuscript). |
 | `n2o_isotopes.csv`          | N₂O isotopic composition (δ¹⁵N bulk, δ¹⁸O, site preference) and N₂O concentration at chamber closure and one hour after closure. |
 | `soil_water_isotopes.csv`   | Isotopic composition (δ¹⁸O) of soil water at 0–10 cm soil depth. |
-| `n2o_mixing_endmembers.csv` | Endmember information used for N₂O isotopic mixing/source partitioning derived from Yu et al. (2020). Standard deviations are derived from previous measurements with the same IRMS. |
+| `n2o_mixing_endmembers.csv` | Endmember information used for N₂O isotopic mixing/source partitioning derived from Yu et al. (2020). Standard deviations were suggested by Dominika Lewicka-Szczebak. |
 
 For details on the exact variables, units, and measurement methods, please refer to the manuscript.  
 If you need further information, you can contact the author(s).
